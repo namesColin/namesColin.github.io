@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://namesColin.github.io</id>
-    <title>namesColin</title>
-    <updated>2021-02-24T13:55:39.785Z</updated>
+    <title>时代最强鹰</title>
+    <updated>2021-02-24T13:56:12.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://namesColin.github.io"/>
     <link rel="self" href="https://namesColin.github.io/atom.xml"/>
     <subtitle>他，发出了时代的最强鹰！</subtitle>
     <logo>https://namesColin.github.io/images/avatar.png</logo>
     <icon>https://namesColin.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, namesColin</rights>
+    <rights>All rights reserved 2021, 时代最强鹰</rights>
     <entry>
         <title type="html"><![CDATA[预告！]]></title>
         <id>https://namesColin.github.io/post/yu-gao/</id>
