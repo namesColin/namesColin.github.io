@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://namesColin.github.io</id>
     <title>时代最强鹰</title>
-    <updated>2021-07-24T12:42:09.484Z</updated>
+    <updated>2021-07-24T12:55:45.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://namesColin.github.io"/>
     <link rel="self" href="https://namesColin.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://namesColin.github.io/images/avatar.png</logo>
     <icon>https://namesColin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 时代最强鹰</rights>
+    <entry>
+        <title type="html"><![CDATA[2021/7/24--观坤與万国全图有感]]></title>
+        <id>https://namesColin.github.io/post/2021724-guan-kun-yu-wan-guo-quan-tu-you-gan/</id>
+        <link href="https://namesColin.github.io/post/2021724-guan-kun-yu-wan-guo-quan-tu-you-gan/">
+        </link>
+        <updated>2021-07-24T12:43:02.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[预告！]]></title>
         <id>https://namesColin.github.io/post/yu-gao/</id>
